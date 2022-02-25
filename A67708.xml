@@ -1,0 +1,646 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse upon improving the revenue of the State of Athens written originally in Greek by Xenophon ; and made English from the original with some historical notes by W.M. Esq.</title>
+            <title>Discourse upon improving the revenue of the state of Athens. English</title>
+            <author>Xenophon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67708</idno>
+            <idno type="STC">Wing X18</idno>
+            <idno type="STC">ESTC R9868</idno>
+            <idno type="EEBO-CITATION">11983620</idno>
+            <idno type="OCLC">ocm 11983620</idno>
+            <idno type="VID">51906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 523:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse upon improving the revenue of the State of Athens written originally in Greek by Xenophon ; and made English from the original with some historical notes by W.M. Esq.</title>
+                  <title>Discourse upon improving the revenue of the state of Athens. English</title>
+                  <author>Xenophon.</author>
+                  <author>Moyle, Walter, 1672-1721.</author>
+               </titleStmt>
+               <extent>62, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Knapton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Translated by Walter Moyle. Cf. BM.</note>
+                  <note>Reproduction of original in Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Revenue --  Greece.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51906:1" rendition="simple:additions"/>
+            <p>A DISCOURSE UPON IMPROVING THE REVENUE OF THE STATE OF <hi>ATHENS.</hi>
+            </p>
+            <p>Written Originally in <hi>Greek</hi> by <hi>Xenophon.</hi>
+            </p>
+            <p>And made <hi>Engliſh</hi> from the Original, with ſome Hiſtorical Notes: By <hi>W. M.</hi> Eſq;</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Knapton,</hi> at the <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51906:2"/>
+            <pb n="3" facs="tcp:51906:2"/>
+            <head>TO THE AUTHOR OF THE ESSAY UPON Ways and Means.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AT length the WAR, which has been carry'd on for ſo many Years, with ſuch Expence of Blood, and Treaſure to the Nation, is at an End; and
+<pb n="4" facs="tcp:51906:3"/>we have the faireſt proſpect imagi<g ref="char:EOLhyphen"/>nable of a laſting PEACE, and a happy Settlement under the Go<g ref="char:EOLhyphen"/>vernment of a Prince, who after He has employ'd His Arms abroad with ſo much Succeſs for the De<g ref="char:EOLhyphen"/>fence of our Liberties; will, we hope, turn all His Councils to the finiſhing ſo Glorious a Deſign, and be as Renown'd to future Ages, for the Peaceful Arts of Government, as for His Military Virtues: As His Courage has made us Safe, ſo His Wiſdom, undoubtedly, will make us Rich and Happy, by the improvement of our Navigation, and the increaſe of our Trade: For 'tis to Trade we owe the Riſe and Progreſs of the <hi>Engliſh</hi> Greatneſs, that has enabled us to ſupport ſo te<g ref="char:EOLhyphen"/>dious a War againſt the moſt formi<g ref="char:EOLhyphen"/>dable Power which has been known in Europe for theſe many Ages, and that alone can enable us to diſcharge the vaſt Debts we have
+<pb n="5" facs="tcp:51906:3"/>contracted by the WAR. Trade being of ſuch mighty Conſequence to the Intereſt of the Nation, will, we hope, meet with due Encourage<g ref="char:EOLhyphen"/>ment and Protection from our Laws, and will be ſettled under the ableſt Management, and the wiſeſt Regu<g ref="char:EOLhyphen"/>lation. Theſe Branches of our Com<g ref="char:EOLhyphen"/>merce which have been impair'd or loſt by the Piratick WAR, and the fatal Interruption of our Navigati<g ref="char:EOLhyphen"/>on, may be retriev'd by the PEACE, and other Trades, and particular<g ref="char:EOLhyphen"/>ly that with <hi>France,</hi> which the Negligence, or the miſtaken Coun<g ref="char:EOLhyphen"/>ſells of the laſt Reigns had fetled upon a Foot ſo diſtructive to our Intereſt, may be eſtabliſh'd to our Advantage in a new Treaty of Com<g ref="char:EOLhyphen"/>merce. The great Trade to the <hi>Eaſt-Indies</hi> with ſome few Regula<g ref="char:EOLhyphen"/>tions, might be eſtabliſh'd upon a Bottom more conſiſtent with the Manufactures of <hi>England;</hi> but in all Appearance, this is not to be
+<pb n="6" facs="tcp:51906:4"/>compaſs'd, unleſs ſome publick ſpirited Man with a Maſterly Ge<g ref="char:EOLhyphen"/>nious be plac'd at the Head of out Affairs in <hi>India;</hi> and though we who are his Friends, are loath to looſe him, 'twere to be wiſh'd, for the Good of the Kingdom, that the Gentleman whom common Fame, and the Voice of the World, have pointed out as the ableſt Man for ſuch a Station, would employ his excellent Judgment and Talents that way, in the Execution of ſo uſefull a Deſign.</p>
+            <p>The general Intereſt of a Na<g ref="char:EOLhyphen"/>tion, ought to be the Care of par<g ref="char:EOLhyphen"/>ticular Men, the main bent of their Studies, and the chief Purſuit of their Inquiries: Every Man ought to ſet his helping Hand to ſuch a a Work: And your own generous Labours upon this Subject, have ſet an excellent Pattern to the reſt of the World. To this End I pre<g ref="char:EOLhyphen"/>ſent
+<pb n="7" facs="tcp:51906:4"/>you with a Tranſlation of this Diſcourſe of <hi>Xenophon</hi> upon the Subject of <hi>Revenue and Trade,</hi> and I fancy it will be no unwelcome Entertainment to you, to find your own admirable Obſervations upon theſe Matters; confirm'd by the Au<g ref="char:EOLhyphen"/>thority of one of the greateſt Men that ever Antiquity produc'd, and the only ancient Author upon this Subject, which is now extant. You will admire the Force and Solidity of his Obſervations, the Exactneſs of his Calculations, the juſtneſs, and freedom of his Thoughts, not confin'd to the narrow Notions of Parties and Factions, and the vi<g ref="char:EOLhyphen"/>gour of his Judgment and Elo<g ref="char:EOLhyphen"/>quence at ſo great an Age. The general Rules for the Increaſe of Riches and Trade, are either di<g ref="char:EOLhyphen"/>rectly advanc'd, or may be very naturally deduc'd from this Diſ<g ref="char:EOLhyphen"/>courſe. That admirable Maxim <hi>That the true Wealth and Greatneſs of a
+<pb n="8" facs="tcp:51906:5"/>Nation, conſists in Numbers of People, well employ'd,</hi> is every where incul<g ref="char:EOLhyphen"/>cated throughout the whole Courſe of the Treatiſe. And I believe <hi>Xenophon</hi> was the firſt Author that ever argu'd by Political Arithme<g ref="char:EOLhyphen"/>tick, or the Art of Reaſoning up<g ref="char:EOLhyphen"/>on things by Figures, which has been improv'd by ſome able Heads of our own Nation, and carry'd to the higheſt Perfection by your own ſucceſsful Inquiries.</p>
+            <p>As for what relates to my Tranſ<g ref="char:EOLhyphen"/>lation, I have rather choſen to ren<g ref="char:EOLhyphen"/>der the Senſe and Meaning of the Author, than his Words, or his Manner: The Purity, Politeneſs, and the unaffected Simplicity of his Stile, are Graces not to be copy'd by the Barrenneſs and Barbarity of our Modern Languages.</p>
+            <p>I hope the Tranſlation is faithful, and exact; if there are any Miſtakes,
+<pb n="9" facs="tcp:51906:5"/>I deſire the candid Reader to forgive them: I have added ſome Hiſtori<g ref="char:EOLhyphen"/>cal Notes at the End, to explain ſome Difficulties relating to the Law and Cuſtoms of the <hi>Grecian</hi> People. I am,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your very Affectionate Friend, <hi>W. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51906:6"/>
+            <pb n="11" facs="tcp:51906:6"/>
+            <head>A DISCOURSE UPON Improving the Revenue OF THE STATE OF <hi>ATHENS.</hi>
+            </head>
+            <p>I Always held it for a certain Maxim, that Governments reſembled their Governors, and that the Proſperity, or Declenſion, the Vigor or Decay of all States, was deriv'd from the Vir<g ref="char:EOLhyphen"/>tues and Vices, the Abilities or Weakneſs
+<pb n="12" facs="tcp:51906:7"/>of their Rulers: But ſince 'tis general<g ref="char:EOLhyphen"/>ly alleadg'd in vindication of the <hi>Athe<g ref="char:EOLhyphen"/>nian</hi> Miniſtry, that they underſtand the common Principles of Juſtice as well as the reſt of Mankind, but that they are compell'd by the (1.) Neceſſities of the common People to oppreſs their (2.) Con<g ref="char:EOLhyphen"/>federate Cities with unreaſonable Tri<g ref="char:EOLhyphen"/>butes, and Taxes: I have attempted to examin whither this Apology is well grounded, and whither they are not ca<g ref="char:EOLhyphen"/>pable by the Native Riches, and Reve<g ref="char:EOLhyphen"/>nue of the State of <hi>Athens,</hi> to maintain the whole Body of our People, which is the juſteſt, and moſ honourable Pro<g ref="char:EOLhyphen"/>viſion can be thought of: For I ima<g ref="char:EOLhyphen"/>gine if ſuch a Deſign could be compaſs'd, that the Wants of the People would be more effectually reliev'd, and the Jea<g ref="char:EOLhyphen"/>louſies, and Suſpicions of our Neigh<g ref="char:EOLhyphen"/>bours would be quieted.</p>
+            <p>Upon a general view of the whole Matter, it appear'd to me that the <hi>Athe<g ref="char:EOLhyphen"/>nian</hi> Territory is capable of affording a mighty Income, and Revenue, the truth of which Aſſertion may be eaſily evinc'd by a brief Survey of the State, and Na<g ref="char:EOLhyphen"/>ture of the Country.</p>
+            <p>The Fruits of the Earth, and Native Products of our Soil, are a Proof of the temperature of our Climate, and the
+<pb n="13" facs="tcp:51906:7"/>mildneſs of our Seaſons; for we have Plants which bear in great abundance in our Country, which will never grow in others; and our Sea, as well as Land, abounds in all Things neceſſary for Life, or Luxury: Add to this, that all the Bleſſings which the Gods have made pe<g ref="char:EOLhyphen"/>culiar to the different Seaſon of the Year, begin earlier, and end later with us, than in any Part of the World.</p>
+            <p>Beſides the vaſt plenty we enjoy of periſhable Goods, our Soil affords us ſome ſtaple and permanent Commodi<g ref="char:EOLhyphen"/>ties, ſuch as our noble Quarries of Mar<g ref="char:EOLhyphen"/>ble, out of which are drawn the beſt Materials for the Building, and Orna<g ref="char:EOLhyphen"/>ment of Temples, and for the Altars and Statues of the Gods, and which both the <hi>Greeks,</hi> and barbarous Nations ſet a high Value upon.</p>
+            <p>And where the Soil is too barren to receive the common Improvements of Husbandry, it contains hidden Treaſures, which will feed a much greater Number of Mouths, than any arable Lands can doe: For the Divine Bounty has be<g ref="char:EOLhyphen"/>ſtow'd upon us inexhauſtible Mines of Silver, an Advantage which we enjoy above all our Neighbouring Cities by Sea, and Land, who never yet could
+<pb n="14" facs="tcp:51906:8"/>diſcover one Vein of Silver Oar in all their Dominions.</p>
+            <p>We have Reaſon likewiſe to believe that <hi>Athens</hi> is ſeated in the Center of <hi>Greece,</hi> and the habitable World; for all Nations are incommoded with more intenſe Degrees of Heat or Cold in pro<g ref="char:EOLhyphen"/>portion to their<note n="*" place="margin">He means North or South.</note> diſtance from us; and that we lie in the Heart of <hi>Greece</hi> is evi<g ref="char:EOLhyphen"/>dent, for all Travellers, that paſs by Sea or Land, from one Extremity of <hi>Greece</hi> to the other, muſt take <hi>Athens</hi> in their Way.</p>
+            <p>And tho' <hi>Attica</hi> is no Iſland, yet we have the ſame Benefit of Trading with all Winds, for we are bounded on two Sides by the Sea, and being join'd to the Continent we have the Con<g ref="char:EOLhyphen"/>venience of driving on an Inland Traffick.</p>
+            <p>Other Cities lie expos'd to the Fury of barbarous Nations, but we are ſo far from having ſo ill a Neighbourhood, that the States that border immediately upon us, lie at a remote diſtance from them.</p>
+            <p>To all thoſe Advantages which con<g ref="char:EOLhyphen"/>ſpire to the Felicity, and greatneſs, of our State, and which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> owe to the happy Situation, and the native Wealth of our Country, a mighty Improvement might
+<pb n="15" facs="tcp:51906:8"/>be made by the Inſtitution of publick Laws, in favour of Strangers that eſta<g ref="char:EOLhyphen"/>bliſh themſelves among us; for beſides the general Benefits deriv'd to all Cities from Numbers of People, our Strangers would be ſo far from living on the Publick, and receiving Penſions from the State as our own Citizens do, that they would maintain themſelves, and be the Foundation of the Nobleſt Branch of our Revenue by the Payment of the (3.) Aliens Duties.</p>
+            <p>An effectual Inducement to the Set<g ref="char:EOLhyphen"/>tlement of Foreigners among us might be eſtabliſh'd, by taking off all thoſe publick Marks of Diſhonour from them which are of no Service, nor Advan<g ref="char:EOLhyphen"/>tage to the State, and by excuſing them from ſerving among our heavy arm'd Troops; for an Exemption from the Dangers of War, and from the neceſ<g ref="char:EOLhyphen"/>ſity of being abſent from their Families, and (4.) Trades, would be a very powerful Encouragement.</p>
+            <p>'Tis likewiſe the Intereſt of the Com<g ref="char:EOLhyphen"/>mon-Wealth, rather to fight our Battles with our own Troops, than to keep up in our Armies, a mixture of <hi>Lydians, Phrygians</hi> and <hi>Syrians,</hi> and all kinds of barbarous Nations, out of whom the great<g ref="char:EOLhyphen"/>eſt Number of our Aliens are compos'd.</p>
+            <pb n="16" facs="tcp:51906:9"/>
+            <p>Beſides the Advantage of avoiding the Confuſion ſuch a Mixture of Troops produces, 'twould be more for our Repu<g ref="char:EOLhyphen"/>tation Abroad, to truſt the Fortune of our State to the Courage, and Valour of our own Citizens, than in the Hands of Foreigners,</p>
+            <p>Beſides all other proper encourage<g ref="char:EOLhyphen"/>ment to Strangers, the Priviledge of be<g ref="char:EOLhyphen"/>ing (5.) inroll'd among our Horſe, would more warmly unite the in our Intereſts, and prove a ſolid Foundati<g ref="char:EOLhyphen"/>on of Strength, and greatneſs of the State.</p>
+            <p>'Twould be likewiſe a ſtrong Induce<g ref="char:EOLhyphen"/>ment to greater Numbers of conſidera<g ref="char:EOLhyphen"/>ble Strangers to plant among us, if we gave the (6.) waſt Ground with<g ref="char:EOLhyphen"/>in our Walls to be built on by ſuch of them as deſerv'd, and deſir'd it of the Publick.</p>
+            <p>The Inſtitution of a new (7.) Magi<g ref="char:EOLhyphen"/>ſtracy, like the (8.) publick Guardians of our Orphans, for the protection, and Security of Strangers, with Rewards of Honours, and Dignities to thoſe, who by their Care, and Induſtry, procur'd the moſt numerous Settlements of Fo<g ref="char:EOLhyphen"/>reigners among us, would gain the Af<g ref="char:EOLhyphen"/>fections of our Aliens, and would have a very happy Effect, in drawing a vaſt
+<pb n="17" facs="tcp:51906:9"/>concourſe of<note n="*" place="margin">Exiles, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Men whoſe Ci<g ref="char:EOLhyphen"/>ties have been de<g ref="char:EOLhyphen"/>ſtroy'd.</note> Exiles, and Strangers to live under the Protection of our Go<g ref="char:EOLhyphen"/>vernment, and augment our publick Re<g ref="char:EOLhyphen"/>nenue.</p>
+            <p>That of all Cities, <hi>Athens</hi> lies the fair<g ref="char:EOLhyphen"/>eſt for inviting an extended Commerce, is evident from the convenience of our Stations, and Harbours, where Ships can ride secure in all Weather. And whereas in other trading Cities, Merchants are forc'd to barter one Commodity For an<g ref="char:EOLhyphen"/>other, in regard their Coin is not cur<g ref="char:EOLhyphen"/>rent abroad, we abound not only in Ma<g ref="char:EOLhyphen"/>nufactures, and Products of our own Growth, ſufficient to anſwer the De<g ref="char:EOLhyphen"/>mands of all Foreign Traders, but in caſe they refuſed to export our Goods, in return for their own, they may trade with us to Advantage, by receiving Sil<g ref="char:EOLhyphen"/>ver in exchange for them, (9.) which tranſported to any other Market, would paſs for more than they took it for at <hi>Athens.</hi>
+            </p>
+            <p>'Twould be a great Encouragement to Commerce, if Prizes, and Rewards were allotted to ſuch (10.) Judges of the Courts-Merchant, as made the quickeſt, and juſteſt Determination of all Cauſes relating to Trader, that the Merchant might not looſe the Benefit of his Market by an attendance upon the Courts of Ju<g ref="char:EOLhyphen"/>ſtice.</p>
+            <pb n="18" facs="tcp:51906:10"/>
+            <p>'Twould be likewiſe for the Honour and Advantage of the Publick, to give the firſt Rank (11.) and Precedence in all publick Places to Foreign Sea-men, and Merchants, and to invite to the publick Feaſts of the City, ſuch of them as by their Ships, or Commodities do ſervice to the State; for this Diſtinction of Ho<g ref="char:EOLhyphen"/>nour as well as the Conſideration of their own Profit, would invite them to make quick Returns from their Voyages to ſo friendly a Government.</p>
+            <p>And 'tis manifeſt beyond all Contra<g ref="char:EOLhyphen"/>diction, that our Trade and Commerce would be extended, our Exportations, and Importations increas'd, and the ſtanding Income, and Revenue of the State improv'd, in proportion to the Number of Foreign Sea-men, and Mer<g ref="char:EOLhyphen"/>chants of all kinds that eſtabliſh them<g ref="char:EOLhyphen"/>ſelves among us.</p>
+            <p>To the Improvement of theſe Arti<g ref="char:EOLhyphen"/>cles of our Revenue, nothing more is requir'd than a generous Lenity, and Indulgence in our publick Laws, and an univerſal Encouragement, and Pro<g ref="char:EOLhyphen"/>tection to Strangers. But the Improve<g ref="char:EOLhyphen"/>ments that may be added by other Me<g ref="char:EOLhyphen"/>thods to advance our ſtanding Income, will of Neceſſity require a Settlement of ſome Publick (12.) Fond.</p>
+            <pb n="19" facs="tcp:51906:10"/>
+            <p>And I have good Grounds to believe that the People will make large Contri<g ref="char:EOLhyphen"/>butions in favour of ſuch a publick Un<g ref="char:EOLhyphen"/>dertaking, when I conſider what Sums they advanc'd when we ſent Succours to the <hi>Arcadians</hi> under the Command of <hi>Lyſiſtratus,</hi> and likewiſe of (13.) <hi>He<g ref="char:EOLhyphen"/>geſilans.</hi>
+            </p>
+            <p>How often we have ſet out Squa<g ref="char:EOLhyphen"/>drons of Gallies by extraordinary Sub<g ref="char:EOLhyphen"/>ſidies, without any certain Proſpect of Advantage to the State, but this we were all ſure of, that no particular Con<g ref="char:EOLhyphen"/>tributer would ever be repaid the whole, or any part of his Money.</p>
+            <p>But in the preſent Caſe no Man can poſſeſs a more Honourable, or Advan<g ref="char:EOLhyphen"/>tagious Revenue, than what he will re<g ref="char:EOLhyphen"/>ceive in Recompence for his Contribu<g ref="char:EOLhyphen"/>tion to this publick Fond: For a Con<g ref="char:EOLhyphen"/>tributer of Ten <hi>Minae,</hi> will receive a (14.) <hi>Triobolon</hi> a Day from the State, which in a Year's time, amounts to near 20 <hi>per Cent.</hi> which is a running In<g ref="char:EOLhyphen"/>come as high as the Produce of (15.) <hi>Nautick</hi> Intereſt: And a Contributer of five <hi>Minae,</hi> will at the Year's End re<g ref="char:EOLhyphen"/>ceive more than a (16.) third Part of the Capital Summ he advanc'd: As for the Body of the People, if they pay in one <hi>Mina</hi> a Piece, they will in a Years
+<pb n="20" facs="tcp:51906:11"/>time very near (17.) double their Prin<g ref="char:EOLhyphen"/>cipal Money, and be paid in the City, without any hazzard, or Contingency, upon the Security of the publick, Faith, which is the moſt certain, and moſt laſting Profit.</p>
+            <p>I am of Opinion likewiſe, that pri<g ref="char:EOLhyphen"/>vate Strangers, and (18.) foreign Ci<g ref="char:EOLhyphen"/>ties, Kings, and Governours, if they had the Honour of being regiſter'd to Poſte<g ref="char:EOLhyphen"/>rity in our publick Monuments, and Records, as Benefactors to the State, would mutually vie in emulation who ſhould contribute moſt largely to the carrying on ſo generous a Deſign.</p>
+            <p>The neceſſary Fonds being advanc'd, 'twould be for the Honour and Intereſt of the State, to build a greater Num<g ref="char:EOLhyphen"/>ber of publick Inns, and Houſes of En<g ref="char:EOLhyphen"/>tertainment in our Ports, for the uſe of Sea-men, in the trading Parts of the Ci<g ref="char:EOLhyphen"/>ty for Merchants, and in general for the Reception of all Strangers whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>And if we build Shops, Ware-houſes, and Exchanges for common Retailers, the Rents of the Houſes would be a great Addition to our publick Revenues, and the magnificence of the Buildings would be an Ornament to the City.</p>
+            <pb n="21" facs="tcp:51906:11"/>
+            <p>As the Publick builds Gallies for War, ſo it might likewiſe be for the Advan<g ref="char:EOLhyphen"/>tage of the State to make a new Ex<g ref="char:EOLhyphen"/>periment, and build Merchant-Ships for Trade, which might be farm'd out, like the other Branches of our Revenue, upon good Security; for if this Deſign was found practicable, it would prove a conſiderable Article in the Increaſe of our publick Income.</p>
+            <p>Our Silver Mines alone, if rightly manag'd, beſides all the other Branches of our Revenue, would be an ineſtima<g ref="char:EOLhyphen"/>ble Treaſure to the Publick. But for the Benefit of thoſe who are unskill'd in Inquiries of this Nature, I deſign to premiſe ſome general Conſiderations up<g ref="char:EOLhyphen"/>on the true State, and Value of our Silver-Mines, that the Publick, upon a right Information, may proceed to the taking ſuch Meaſures, and Councils, as may improve them to the beſt Ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>No one ever pretended from Tradi<g ref="char:EOLhyphen"/>tion, or the earlieſt Accounts of Time, to determine when theſe Mines firſt be<g ref="char:EOLhyphen"/>gan to be wrought, which is a Proof of their Antiquity, and yet as ancient as they are, the Heaps of Rubbiſh which have been dug out of them, and lie above Ground, bear no Proportion
+<pb n="22" facs="tcp:51906:12"/>with the vaſt Quantities which ſtill re<g ref="char:EOLhyphen"/>main below, nor does there appear any ſenſible Decay, or Diminution in our Mines, but as we dig on, we ſtill diſco<g ref="char:EOLhyphen"/>ver freſh Veins of Silver-Oar in all Parts, and when we had moſt Labourers at work in the Mines, we found that we had ſtill Buſineſs for more Hands than were employ'd.</p>
+            <p>Nor do I find that the Adventurers in the Mines retrench the Number of their Workmen, but purchaſe as many new Slaves as they can get; for their Gains are greater, or leſs, in Proportion to the Number of Hands they imploy. And this is the only Profeſſion I know of where the Undertakers are never envy'd be their Stock or Profits never ſo extra<g ref="char:EOLhyphen"/>ordinary, becauſe their Gains never in<g ref="char:EOLhyphen"/>terfere with thoſe of their Fellow Tra<g ref="char:EOLhyphen"/>ders.</p>
+            <p>Every Husbandman knows how ma<g ref="char:EOLhyphen"/>ny Yoak of Oxen and Servants are ne<g ref="char:EOLhyphen"/>ceſſary to cultivate his Farm, and if he imploys more than he has occaſion for, reckons himſelf ſo much a Looſer; but no Dealer in the Silver Mines ever thought he had Hands enow to ſet to work.</p>
+            <pb n="23" facs="tcp:51906:12"/>
+            <p>For there is, the Difference between this<g ref="char:punc">▪</g> and all other Profeſſions, that where<g ref="char:EOLhyphen"/>as in other Callings, for Inſtance, Bra<g ref="char:EOLhyphen"/>ziers and Black-Smiths, when their Trades are over-ſtock'd, are undone, becauſe the Price of their Commodities is lower'd of courſe, by the multitude of Sellers; and likewiſe a good Year of Corn, and a plentiful Vintage, for the ſame Reaſon does hurt to the Farmers, and forces them to quit their Employments, and ſet up publick Houſes, or turn Mer<g ref="char:EOLhyphen"/>chants and Bankers.</p>
+            <p>But here the Caſe is quite otherwiſe, for the more Oar is found, and the more Silver is wrought, and made, the more Adventurers come in, and the more Hands are employ'd in our Mines.</p>
+            <p>A Maſter of a Family indeed when he is well provided with Furniture, and Houſhold-Goods, buys no more, but no Man was ever ſo overſtock'd with Silver, as not to deſire a further Increaſe: if there are any who have more than their Occaſions require, they hoard up the reſt with as much Pleaſure as if they actually made uſe of it.</p>
+            <p>And when a Nation is in a flouriſhing Condition, no One is at a loſs how to em<g ref="char:EOLhyphen"/>ploy his Money: The Men lay it out
+<pb n="24" facs="tcp:51906:13"/>in fine Armour, in Horſes, and in magni<g ref="char:EOLhyphen"/>ficent Houſes and Buildings; Women lay it but in great Equipage, coſtly Ha<g ref="char:EOLhyphen"/>bits, and rich Cloaths.</p>
+            <p>And in Accidents of War when our Lands lie fallow, and uncultivated, or in a publick Dearth, and Scarcity, what Reſerve have we left ſo apply to but Silver, to purchaſe Neceſſaries for our Subſiſtance, or hire Auxiliaries for our Defence?</p>
+            <p>If 'tis objected that Gold is as uſeful as Silver, I will not diſpute it, but this I am ſure of, that plenty of Gold al<g ref="char:EOLhyphen"/>ways lower'd its Value, and advanc'd the Price of Silver.</p>
+            <p>I have inſiſted the longer upon theſe general Reflections to encourage Adven<g ref="char:EOLhyphen"/>turers of all kinds, to employ as many Hands as poſſible in ſo advantageous a Trade, from theſe plain Conſiderations, that the Mines can never be (19.) ex<g ref="char:EOLhyphen"/>hauſted, nor can Silver ever loſe its Value.</p>
+            <p>That the Publick has known this long before, is evident from our Laws, which allow Foreigners to work our Mines upon the (20.) ſame Terms and Con<g ref="char:EOLhyphen"/>ditions our own Citizens enjoy.</p>
+            <p>But to draw this Diſcourſe more im<g ref="char:EOLhyphen"/>mediately to the Subject of my preſent Conſideration, which is the Maintenance
+<pb n="25" facs="tcp:51906:13"/>of our Citizens, I will begin to propoſe thoſe Ways, and Means, by which the Silver-Mines may be improv'd to the higheſt Benefit, and Advantage to the Publick. Nor do I ſet up for the Vani<g ref="char:EOLhyphen"/>ty of being admir'd for an Author of new Diſcoveries: For that Part of my following Diſcourſe which relates to the Examples of the preſent Age, lies obvi<g ref="char:EOLhyphen"/>ous to all the World; as for what is paſt 'tis Matter of Fact, and every Man might inform himſelf that would be at the Pains of inquiring.</p>
+            <p>'Tis very ſtrange, that after ſo many Precedents of private Citizens of <hi>Athens,</hi> who have made their Fortunes by the Mines, the Publick ſhould never think of following their Examples: For we who have made Inquiry into this Matter have heard, that <hi>Nicias,</hi> the Son of <hi>Nicera<g ref="char:EOLhyphen"/>tus,</hi> had a thouſand Slaves employ'd in the Mines, whom he let out to <hi>So<g ref="char:EOLhyphen"/>ſias</hi> the <hi>Thracian,</hi> upon Condition to re<g ref="char:EOLhyphen"/>ceive an <hi>Obolus</hi> a Day, clear of all Charges, for every Head, and that the ſame Complement of Workmen ſhould be always kept on Foot.</p>
+            <p>In like manner <hi>Hipponicus</hi> has 600 Slaves let out at the ſame Rate, which yielded him a Revenue of a <hi>Mina</hi> a Day, and <hi>Philemonides</hi> 300, which
+<pb n="26" facs="tcp:51906:14"/>brought him half a <hi>Mina</hi> a Day, and many others made the ſame Ad<g ref="char:EOLhyphen"/>vantage, in proportion to the Number of Slaves they poſſeſs'd, But what need we to appeal Precedents of an elder Date, when at this Day we have ſo many In<g ref="char:EOLhyphen"/>ſtances of the ſame Nature before our Eyes?</p>
+            <p>In the Propoſals which I offer, there is only One thing new, namely, That as private Men have a conſtant Revenue coming in from the Slaves whom they let out to work in the Mines, ſo the Publick in imitation of their Example, ſhould purchaſe as many Slaves to be imploy'd in the ſame manner, as will treble the Number of their own Ci<g ref="char:EOLhyphen"/>tizens.</p>
+            <p>Let any reaſonable Man take this whole Propoſal to pieces, and examin every diſtinct Head apart, and then judge whether the Deſign is feaſible or not. 'Tis plain the State can bear the Charge of the Price of the Slaves bet<g ref="char:EOLhyphen"/>ter than private Men. And nothing can be eaſier than for the Senate to make Proclamation for all that have Slaves to ſell, to bring them in, and then buy them up for the publick Uſe.</p>
+            <pb n="27" facs="tcp:51906:14"/>
+            <p>And when they are bought, what ſhould hinder any one from hiring them of the State upon the ſame Terms they hire them from private Men? For we ſee that our Revenues are farm'd by particular Men, and the repair, and the building of our publick Structures and Temples (21.) are let out to private Undertakers.</p>
+            <p>And that the Publick may be no loſer by the Deſertion of Slaves, or other Accidents, the Adventurens in the Mines like the Farmers of our Reve<g ref="char:EOLhyphen"/>nue ſhould be oblig'd to give good Security to ſave the State harmleſs: Though at the ſame time the Com<g ref="char:EOLhyphen"/>mon-Wealth may be much more eaſily cheated by the Farmers of their Re<g ref="char:EOLhyphen"/>venue, than by the Hirers of their Slaves.</p>
+            <p>For how is it poſſible to diſcover the Frauds that are committed in the Ma<g ref="char:EOLhyphen"/>nagement of the Publick Money<g ref="char:punc">▪</g> there being no viſible Diſtinction between publick and private Money<g ref="char:punc">▪</g> the ſame Materials, and Stamp being common to both. But when our Slaves are burnt with the publick Mark of the State, with ſevere Penalties to be inflicted up<g ref="char:EOLhyphen"/>on all that buy, or ſell them; what Dan<g ref="char:EOLhyphen"/>ger is there of their being ſtole? Thus
+<pb n="28" facs="tcp:51906:15"/>much of my Propoſal as relates to the buying and preſerving our Slaves, ap<g ref="char:EOLhyphen"/>pears practicable beyond all Contra<g ref="char:EOLhyphen"/>diction.</p>
+            <p>If any one queſtions whether after we have purchas'd a great Number of Work<g ref="char:EOLhyphen"/>men, there will be Adventurers enow to hire them of the Publick, let him conſider, that the Undertakers who have a good Stock of Slaves will hire more of the State; for the Mines are ſo great, that they will require a vaſt Number of Hands to work them; and many of the Workmen that are grown old, and unſerviceable, and many others, <hi>Athenians,</hi> and Strangers whoſe Bodies are not vigorous enough for Labour, yet would be willing to get their Living by eaſier Callings, would turn Adventu<g ref="char:EOLhyphen"/>rers in the Mines, and hire our Slaves; ſo that there is little danger of wanting Employment for our Workmen.</p>
+            <p>Twelve hundred Slaves, when bought, will probably in five or ſix Year's time, produce a Revenue ſufficient to purchaſe as many more as will make the Num<g ref="char:EOLhyphen"/>ber 6000. This Number at the rate of ah <hi>Obolus</hi> a Day a Head, clear of all Charges, will afford a Yearly Revenue of (22) ſixty Talents.</p>
+            <pb n="29" facs="tcp:51906:15"/>
+            <p>And if but twenty of theſe Talents are laid out in the Purchaſe of more Slaves, the City may employ the over<g ref="char:EOLhyphen"/>plus as they think convenient; and when the Number of Slaves is increas'd to 10000. it will produce a ſtanding Re<g ref="char:EOLhyphen"/>venue to the Publick, of a hundred Talents a Year.</p>
+            <p>To demonſtrate that the Mines would take up a greater Proportion of Slaves to work 'em, I appeal to the Authori<g ref="char:EOLhyphen"/>ty of all theſe living Witneſſes who re<g ref="char:EOLhyphen"/>member, what Numbers of Workmen were employ'd in them before the taking of (23) <hi>Decelea</hi> by the <hi>Lacedemonians.</hi> And our Silver Mines that have been wrought for ſo many Ages, with ſuch Numbers of Hands, and continue ſtill ſo far from being drein'd, or exhauſted, that we can diſcover no viſible dif<g ref="char:EOLhyphen"/>ference in their preſent State from the Accounts our Anceſtors have deli<g ref="char:EOLhyphen"/>ver'd down to us, are undeniable proofs of my Aſſertion.</p>
+            <p>And their preſent Condition is a good Argument that there never can be more Hands at work in the Mines than there is Employment for: For we dig on ſtill without finding any Bottom or End of our Mines, or decay of the Silver-Oar.</p>
+            <pb n="30" facs="tcp:51906:16"/>
+            <p>And at this Day we may open new Mines as well as in former Ages, and no one can determin whether the new Mines may not prove more Rich than the old Ones.</p>
+            <p>If any one demands why our Miners are not ſo forward in purſuit of new Diſcoveries, as formerly, I anſwer, 'tis not long ſince that the Mines have be<g ref="char:EOLhyphen"/>gun to be wrought afreſh, and the pre<g ref="char:EOLhyphen"/>ſent Adventurers are not rich enough to run the Riſque of ſuch an Under<g ref="char:EOLhyphen"/>taking.</p>
+            <p>For if they diſcover a rich Mine their Fortunes are made, but if they fail, they loſe all the Charges they have been at; and this Conſideration chiefly has diſ<g ref="char:EOLhyphen"/>courag'd the Adventurers from trying ſo dangerous an Experiment.</p>
+            <p>But in Order to remedy this Difficul<g ref="char:EOLhyphen"/>ty, I have ſome (24) Propoſals to of<g ref="char:EOLhyphen"/>fer to the Publick. There are Ten Tribes at <hi>Athens,</hi> and to each of theſe I would have the Government aſſign an equal Proportion of their publick Slaves, to be imploy'd in ſearch of new Mines, and the gains to be equally divided in common among all the Sharers in the Ten Tribes: For if the Mines were once ſettled upon this Eſtabliſhment, and the whole Undertaking carry'd on by a Na<g ref="char:EOLhyphen"/>tional
+<pb n="31" facs="tcp:51906:16"/>Stock, the Adventurers would run little Hazard; and if but one of the Ten Tribes ſucceeded in the Attempt, the whole Community would be Gainers; and if two, threes four or half the Tribes had the ſame good Fortune, the Profits would be proportionably greater; for 'tis a wild Suppoſition, and againſt the Ex<g ref="char:EOLhyphen"/>perience of all Ages, to imagin that not One in Ten ſhould ſucceed in ſuch an Undertaking.</p>
+            <p>Companies of private Adventures may carry on the ſame Trade in a Joint-Stock, nor is there any danger that they and the National Company will interfere one with another, but as Con<g ref="char:EOLhyphen"/>federates are ſtrengthen'd by their mu<g ref="char:EOLhyphen"/>tual Aſſiſtance to each other, ſo the more Adventurers of all kinds are imploy'd in the Mines, ſo much larger will the Gains, and Advantages be to all.</p>
+            <p>Thus have I briefly propos'd ſome Conſiderations to the Publick, for eſta<g ref="char:EOLhyphen"/>bliſhing the Management of the Natio<g ref="char:EOLhyphen"/>nal Revenue upon ſuch an Inſtitution as ſhall make effectual Proviſion for the whole Body of our People.</p>
+            <p>Nor let any Man be diſcourag'd from the Conſiderations of the vaſt Expence, which will be neceſſary for the perfecting ſo great a Work: For there is no Neceſ<g ref="char:EOLhyphen"/>ſity
+<pb n="32" facs="tcp:51906:17"/>that either the whole Deſign muſt be finiſh'd at once, or the Publick will receive no Advantage from it; Quite contrary, every Step we advance in our Way, the State will gain Ground; and by the gradual Progreſs we make in our publick Buildings in the rigging out our Trading-Veſſels, or in the Purchaſe of our Slaves, the Common-Wealth will be an immediate Gainer.</p>
+            <p>And 'tis certainly more for the Ad<g ref="char:EOLhyphen"/>vantage of the Publick to parcel out the Deſign, and finiſh it by degrees: For when many Houſes are building at once, they coſt more, and are worſe built: In like manner, if we purchaſe our Complement of Slaves all at once, we muſt pay more for them, and buy worſe into the Bargain.</p>
+            <p>But if we proceed gradually accord<g ref="char:EOLhyphen"/>ing to to our Abilities, we ſhall ſtill have the ſame Advantage of continu<g ref="char:EOLhyphen"/>ing any right Methods we pitch'd upon in the Beginning, and ſhall be at liberty to correct the Overſights, and Miſtakes we made at our firſt ſetting out. And if we perfect ſome Parts of our Under<g ref="char:EOLhyphen"/>taking, and delay the Execution of the reſt, the Revenue ariſing from part of our Deſign, which is finiſh'd, will be ſuffi<g ref="char:EOLhyphen"/>cient to anſwer the whole Expence of
+<pb n="33" facs="tcp:51906:17"/>the Remainder. But if we reſolve to execute the whole Project at once, the whole Charge of the Enterprize muſt be rais'd at once likewiſe.</p>
+            <p>And then the great Difficulty which will be objected to this whole Scheme is, that in caſe the Publick purchaſe ſo great a Number of Slaves, the Mines may happen to be overſtock'd; but there can be no Grounds for ſuch an Appre<g ref="char:EOLhyphen"/>henſion, if we take care every Year to imploy no more than there is actually Occaſion for.</p>
+            <p>Thus I think the eaſieſt Methods of finiſhing this Deſign are the beſt, and moſt effectual. It may be objected that the immenſe Charges of this War have exhauſted our Treaſure in ſuch a man<g ref="char:EOLhyphen"/>ner, that 'twill be impoſſible for the Publick to raiſe any new Subſidies, much leſs to advance the Neceſſary Fonds for ſuch an Undertaking. But this Dif<g ref="char:EOLhyphen"/>ficulty may be eaſily remov'd, for let the State employ no more Money in the Adminiſtration of the Government the next Year after we have a Peace, than the annual Income of the Publick pro<g ref="char:EOLhyphen"/>duc'd during the War, and whatever addi<g ref="char:EOLhyphen"/>tional Improvements of our Revenue are made by the Peace, from the Incourage<g ref="char:EOLhyphen"/>ment of Strangers, and Merchants, from
+<pb n="34" facs="tcp:51906:18"/>the Increaſe of our Exportations, and Importations, occaſion'd by the reſort of more People, and from a greater Vent of Commodities in our Ports and Mar<g ref="char:EOLhyphen"/>kets, let all that be appropriated to this particular Service, in order to advance the National Revenue.</p>
+            <p>If any One imagins that a War will ruine our Works, let him but conſider that the Execution of this Deſign, will enable us to meet a Foreign Invaſion, with ſo many Advantages on our ſide, that a War in ſuch a Juncture will be leſs formidable to us, than to our Ene<g ref="char:EOLhyphen"/>mies themſelves.</p>
+            <p>For what Advantage can better ena<g ref="char:EOLhyphen"/>ble us to carry on a vigorous and ſuc<g ref="char:EOLhyphen"/>ceſsful War, than Numbers of Men? and by ſuch an Addition to the Stock of our People, as might be made by due care and incouragement; what Levies might be rais'd, what mighty Fleets and Armies ſet out to diſappoint all the De<g ref="char:EOLhyphen"/>ſigns of our Enemies?</p>
+            <p>And I have Reaſon to believe that 'tis poſſible to work our Mines in the con<g ref="char:EOLhyphen"/>juncture of a foreign War, for they are cover'd on the South-Sea, by a ſtrong Citadel in <hi>Anaphlyſtus,</hi> and on the North-Sea, by another in <hi>Thoricus</hi> and theſe
+<pb n="35" facs="tcp:51906:18"/>two Fortreſſes lie at a diſtance of but 60 Furlongs from one another.</p>
+            <p>And if a third Fort was built upon the top of a high Mountain, in the mid<g ref="char:EOLhyphen"/>dle of the two former, the three Works would meet together, and our Silver Mines would be incloſed in a Circle, and guarded on all ſides, and the Work<g ref="char:EOLhyphen"/>men at the firſt Notice of an Invaſion might retire to a Place of Security.</p>
+            <p>But if we are invaded with more Nu<g ref="char:EOLhyphen"/>merous Armies, our Enemies may make themſelves Maſters of our Corn, Wine, and Cattle that lie without the Works; but if they poſſeſs themſelves of our Sil<g ref="char:EOLhyphen"/>ver Mines, what can they find to carry off more than a heap of Stones and Rubbiſh.</p>
+            <p>But how is it poſſible for our Ene<g ref="char:EOLhyphen"/>mies to make an Inroad upon our Mines? For the City <hi>Megara,</hi> which lies neareſt, is above 500 Furlongs from them; and <hi>Thebes,</hi> which is nearer than any but <hi>Megara,</hi> is more than 600 Fur<g ref="char:EOLhyphen"/>longs diſtant from them.</p>
+            <p>If they advance to our Mines in a ſmall Body from this ſide, they muſt leave <hi>Athens</hi> behind them, and run the hazard of being cut off by our Horſe, and flying Parties; for 'tis a wild Noti<g ref="char:EOLhyphen"/>on
+<pb n="36" facs="tcp:51906:19"/>to imagine that they will invade us with their whole Force, and unguard their own Country, and leave it expos'd to our Inroads; for in ſuch a Caſe, <hi>Athens</hi> would be nearer to their Cities than their own Army.</p>
+            <p>But ſuppoſe they march'd up to our Mines with a Numerous Army, how could they Subſiſt for want of Provi<g ref="char:EOLhyphen"/>ſions? If they forrag'd in ſmall Parties, they would be in danger of having their Conveys intercepted; if they forrag'd with their whole Armies, they muſt act upon the defenſive, and we ſhould be the Aggreſſors.</p>
+            <p>The Revenue ariſing from our Slaves would not only make a conſiderable Article in the Charge of maintaining our Citizens, but by the vaſt Concourſe of People from all Parts, the Cuſtoms of the Fairs, and Markets at the Mines, and the Rent of our Publick Buildings, and Melting-houſes, and many other Heads would produce a mighty Income to the State.</p>
+            <p>The State upon ſuch an Eſtabliſh<g ref="char:EOLhyphen"/>ment would be peopled with a prodi<g ref="char:EOLhyphen"/>gious Number of Inhabitants, and the value of Lands at the Mines would be as high as thoſe that lie near <hi>Athens.</hi>
+            </p>
+            <pb n="37" facs="tcp:51906:19"/>
+            <p>A purſuit of ſuch Meaſures and Coun<g ref="char:EOLhyphen"/>cils would not only in rich the City, but introduce a habit of Obedience in the People; reform their Diſcipline, and revive the Courage of the Nation.</p>
+            <p>For if upon this Improvement of our Revenue, a larger Allowance was eſta<g ref="char:EOLhyphen"/>bliſh'd for the maintenance of our Youth, they would be train'd up to the Art of War in our (25.) Publick Academies with more exactneſs, and performe their Military Exerciſes with a more regular Diſcipline, than the Racers in the (26) Torch-Courſe are taught to obſerve. And our Troops in Garriſon, and the ſtanding Guards of our Coaſts, would do their Duty in their ſeveral Poſts with more cheerfulneſs, if any effectual Proviſion was ſetled for their ſubſiſtence.</p>
+            <p>If it be made appear that the Reve<g ref="char:EOLhyphen"/>nue of <hi>Athens</hi> can never be improv'd, or advanc'd to the full height without a Peace, it may deſerve the publick In<g ref="char:EOLhyphen"/>quiry, whether the Eſtabliſhment of a (27) Council of Peace would not be for the Benefit and Advantage of the State.</p>
+            <p>For the Inſtitution of ſuch a Magi<g ref="char:EOLhyphen"/>ſtracy, would invite more numerous Settlements of Foreigners to make <hi>Athens</hi> the Place of their Abode.</p>
+            <pb n="38" facs="tcp:51906:20"/>
+            <p>For 'tis an abſur'd Suppoſition to imagin, that Peace will weaken our Strength, and ruine our Authority, and Reputation abroad; for of all Go<g ref="char:EOLhyphen"/>vernments, thoſe are happieſt who have continued longeſt without War, and of all Common-Wealths, <hi>Athens</hi> lies faireſt for flouriſhing, and increaſing by the Arts of Peace.</p>
+            <p>For <hi>Athens</hi> in time of Peace, is the great Theatre to which all Man<g ref="char:EOLhyphen"/>kind have Occaſion to reſort: To be<g ref="char:EOLhyphen"/>gin with Merchants and Commanders of Ships, Where can the Traders in Wine, Oyl, Corn, or Cattle have a quicker Vent, or a better Market for their Commodities than at <hi>Athens?</hi> Where can Mony'd Men make a better Improvement of their Wealth; and, where is there greater Encouragement for thoſe who live by Arts of Invention and Ingenuity?</p>
+            <p>Where is there better Employment for Artificers, and Mechanick Trades? where can the Sophiſts, Philoſophers, Poets, and the Lovers of the Liberal Arts, reſort to a more renown'd School of Learning, and Humanity? where is there a nobler Scene to gratifie the Cu<g ref="char:EOLhyphen"/>rioſity of all Strangers that are delighted with Divine Rights, and Inſtitutions,
+<pb n="39" facs="tcp:51906:20"/>and the celebrations of Religious Games, and Feſtivals? And where can Mer<g ref="char:EOLhyphen"/>chants of all kinds whatſoever, find a better Market to make quick Returns of their Money, than <hi>Athens.</hi>
+            </p>
+            <p>If my Oppoſers acknowledge all this to be true, but ſtill imagine that we can never recover the Dominion of <hi>Greece</hi> but by a War, I deſire them to look back to the <hi>Perſian</hi> Invaſion, and examine, whether it was by Force of Arms, or our good Offices to the <hi>Greeks,</hi> that we were plac'd at the Head of the (28.) Naval Confederacy, and the Com<g ref="char:EOLhyphen"/>mon Treaſury of <hi>Greece.</hi>
+            </p>
+            <p>And when by a Tyrannical Exerciſe of our Power we loſt our Juriſdiction, by an Alteration of our Meaſures, and a milder Adminiſtration, (29.) we were reſtor'd to our ancient Authority by the joint Conſent of all the Iſlands.</p>
+            <p>Did not the <hi>Thebans</hi> in Acknowledge<g ref="char:EOLhyphen"/>ment of our generous Aſſiſtance to their State, place us at the Head of the Common (30.) Alliance? and our Ri<g ref="char:EOLhyphen"/>vals, the <hi>Lacedemonians,</hi> for the ſame Conſideration, quitted their old Pre<g ref="char:EOLhyphen"/>tenſions, and ſuffer'd us to give Laws to the (31.) laſt Treaty, and diſpoſe of the Supream Command of <hi>Greece</hi> at our own Diſcretion.</p>
+            <pb n="40" facs="tcp:51906:21"/>
+            <p>And at this Juncture in the general Confuſion of <hi>Greece,</hi> we have the moſt favourable Opportunity of recovering our ancient Dominion without Difficul<g ref="char:EOLhyphen"/>ty, Hazard, or Expence, that ever any Nation had: For if we ſet up to be the Common Mediators of <hi>Greece,</hi> and in<g ref="char:EOLhyphen"/>terpos'd our Authority to unite all the divided Intereſts abroad, and reconcile all the Factions at home; and if by ſo<g ref="char:EOLhyphen"/>lemn Embaſſies to all the Neighbouring States, we declar'd for the Liberty of (32.) <hi>Delphi,</hi> all <hi>Greece</hi> would ſupport us at the Head of ſo Glorious a Cauſe, and unite in a general Confederacy a<g ref="char:EOLhyphen"/>gainſt the common Enemies (33.) who endeavour'd to make themſelves Maſters of <hi>Delphi,</hi> when the <hi>Phocians</hi> were re<g ref="char:EOLhyphen"/>duc'd to Extremitry.</p>
+            <p>And if we afterwards warmly intereſted our ſelves to eſtabliſh a general Peace by Sea, and Land; all <hi>Greece,</hi> next to the Security of their own Governments, would deſire the Preſervation of <hi>Athens.</hi>
+            </p>
+            <p>If any Man can have ſo wild a Notion, as to imagine, that War will contribute more to the Increaſe of the Riches of the State than Peace, I know no better way to decide the Controverſie, than by appealing to the Experience of former
+<pb n="41" facs="tcp:51906:21"/>Ages, and producing Precedents to the contrary out of our own Story.</p>
+            <p>For upon inquiry he may find that the vaſt Treaſure we had amaſs'd in Peace, was all conſum'd in our former Wars; and to quote Inſtances of a freſh<g ref="char:EOLhyphen"/>er Date, in the preſent War all the Branches of our Income have been de<g ref="char:EOLhyphen"/>ficient, and what Money came in upon the Publick Fonds, has been all apply'd to the preſſing Occaſions of the State; but ſince the Seas have been open, and our Trade free, every Article of our In<g ref="char:EOLhyphen"/>come is advanc'd, and the Govern<g ref="char:EOLhyphen"/>ment is at liberty to employ it as they think convenient.</p>
+            <p>Not that I would adviſe the Com<g ref="char:EOLhyphen"/>mon-wealth to ſit down tamely by their Injuries in caſe of a Foreign Invaſion; but this I am ſure of, that we ſhould be better inabled to revenge the Affront, if we are not the Aggreſſors, for our Enemies will never be able to form a Confede<g ref="char:EOLhyphen"/>racy to ſupport them in an unjuſt War.</p>
+            <p>Upon the whole Matter, if nothing in this Propoſal appears impoſſible, or dif<g ref="char:EOLhyphen"/>ficult, and if a purſuit of theſe Coun<g ref="char:EOLhyphen"/>cils, and Reſolutions, will gain the Af<g ref="char:EOLhyphen"/>fections of <hi>Greece,</hi> and eſtabliſh our Se<g ref="char:EOLhyphen"/>curity at Home, and increaſe our Re<g ref="char:EOLhyphen"/>putation
+<pb n="42" facs="tcp:51906:22"/>abroad: if the common Peo<g ref="char:EOLhyphen"/>ple will abound in all things neceſſary for Life, and the Rich be eas'd of their Taxes to the Wars: If in this Univer<g ref="char:EOLhyphen"/>ſal Plenty our Temples will be rebuilt, and our Religious Feſtivals, and Solemni<g ref="char:EOLhyphen"/>ties celebrated with more Magnificence: If our Walls, Docks, and Arſenals will be repair'd, and our Prieſts, Senate, Magiſtrates, and Cavalry, reſtor'd to their ancient Rights and Priviledges, is it not fit that all Engins ſhould be ſet at work to promote ſo glorious an Un<g ref="char:EOLhyphen"/>dertaking, that in our Days we may ſee our Country eſtabliſh'd upon a ſolid Foundation of Security and Happineſs?</p>
+            <p>And if the Publick, upon due conſi<g ref="char:EOLhyphen"/>deration, thinks fit to execute theſe Or<g ref="char:EOLhyphen"/>ders and Inſtitutions, I would adviſe them to ſend Embaſſadors to <hi>Delphi,</hi> and <hi>Dodona</hi> to conſult the Gods, whe<g ref="char:EOLhyphen"/>ther ſuch a Reformation of our Govern<g ref="char:EOLhyphen"/>ment would not turn to the Advan<g ref="char:EOLhyphen"/>tage of the preſent Age, and the Bene<g ref="char:EOLhyphen"/>fit of all Poſterity.</p>
+            <p>And if theſe Reſolutions are ratify'd by the Divine Approbation, to conſult the Oracle once more, to the protecti<g ref="char:EOLhyphen"/>on of what Gods we ſhould recom<g ref="char:EOLhyphen"/>mend the Succeſs of this Enterprize, and then to propitiate thoſe Gods we are di<g ref="char:EOLhyphen"/>rected
+<pb n="43" facs="tcp:51906:22"/>to apply to, in order to engage their Aſſiſſtance. And after this ſolemn Invocation to enter boldly upon the Exe<g ref="char:EOLhyphen"/>cution of this Deſign: For 'tis but rea<g ref="char:EOLhyphen"/>ſon that all Undertakings ſhould be at<g ref="char:EOLhyphen"/>tended with more favourable Succeſs, that are begun, and carry'd on, under the immediate Care and Protection of the Divine Providence.</p>
+            <trailer>The End.</trailer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:51906:23"/>
+            <pb n="45" facs="tcp:51906:23"/>
+            <head>NOTES UPON THE TRANSLATION.</head>
+            <div type="part">
+               <head>A Table of the <hi>Attick</hi> Coins reduc'd to the Value of <hi>Engliſh</hi> Money.</head>
+               <list>
+                  <item>THE <hi>Obolus</hi> was equal to 1<hi>d.</hi> 1<hi>q.</hi>
+                  </item>
+                  <item>The <hi>Triobolus</hi> was three <hi>Oboli,</hi> and made 3<hi>d.</hi> 3<hi>d.</hi>
+                  </item>
+                  <item>The <hi>Drachma</hi> was ſix <hi>Oboli,</hi> and made 7<hi>d.</hi> 2<hi>q.</hi>
+                  </item>
+                  <item>The <hi>Mina</hi> was an hundred <hi>Drachma's,</hi> and made 3<hi>l.</hi> 2<hi>s.</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>The common <hi>Attick</hi> Talent conſiſted of ſixty <hi>Minae,</hi> which amounts in our Money to 187<hi>l.</hi> 10 <hi>s.</hi>
+                  </item>
+               </list>
+               <p>Theſe are the common <hi>Attick</hi> Coins, which are moſt frequently mention'd by their Writers, and which I have reduc'd to our <hi>Engliſh</hi> Money, to make way for the eaſier underſtanding of this Diſcourſe.</p>
+               <pb n="46" facs="tcp:51906:24"/>
+               <p>
+                  <hi>Note</hi> (1.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The State of <hi>Athens</hi> was at a great Charge in main<g ref="char:EOLhyphen"/>taining the Common People. They were allow'd three <hi>Oboli</hi> a Man for e<g ref="char:EOLhyphen"/>very Cauſe they judg'd; and this Penſi<g ref="char:EOLhyphen"/>on was call'd the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Lucian. in bis accuſato.</hi> And ſome days many Thouſands receiv'd this Penſion.</p>
+               <p>The <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> was an Allowance of two <hi>Oboli</hi> a-piece, to pay for the Sight of publick Shows. <hi>Liba. in argu. O<g ref="char:EOLhyphen"/>lyn. primae.</hi>
+               </p>
+               <p>The <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> was an <hi>Obolus</hi> a-piece, paid them every time they aſ<g ref="char:EOLhyphen"/>ſembl'd. <hi>Juli. Poll. l.</hi> 6. <hi>c.</hi> 9. And this Penſion was afterwards increas'd to three <hi>Oboli.</hi> Beſides, all maim'd and diſ<g ref="char:EOLhyphen"/>abl'd Citizens had a Penſion of two <hi>O<g ref="char:EOLhyphen"/>boli</hi> a day. <hi>Harpocra. in verbo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Note</hi> (2.)</p>
+               <p>
+                  <hi>Xenophon</hi> ſays only <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but the Word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is plainly un<g ref="char:EOLhyphen"/>derſtood, as appears from the Sequel of this Diſcourſe, and <hi>Xenophon</hi>'s Treatiſe of <hi>the Government of Athens.</hi> This Tax upon the Confederates was at firſt but 400 Talents, but it was afterwards ad<g ref="char:EOLhyphen"/>vanc'd to 1300. <hi>Plutar. in Vitâ Ariſti<g ref="char:EOLhyphen"/>dis.</hi> This Tribute was ſo burdenſome, that it provok'd the Confederates to fre<g ref="char:EOLhyphen"/>quent Revolts.</p>
+               <pb n="47" facs="tcp:51906:24"/>
+               <p>
+                  <hi>Note</hi> (3.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Aliens Duties.</hi> This was an annual Tribute paid by the Aliens, of twelve <hi>Drachma's</hi> for every Man, and ſix for every Woman. <hi>Harpocra. in ver<g ref="char:EOLhyphen"/>bo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The number of the Aliens amounted generally to 10000. Origi<g ref="char:EOLhyphen"/>nally at <hi>Athens</hi> there was no diſtincti<g ref="char:EOLhyphen"/>on between Strangers and Natives, for all Foreigners were naturaliz'd promi<g ref="char:EOLhyphen"/>ſcuouſly. <hi>Thucyd. l.</hi> 1. <hi>c.</hi> 2. Thus all the <hi>Plataeans</hi> were naturaliz'd at once. <hi>Thu<g ref="char:EOLhyphen"/>cyd. l.</hi> 3. <hi>c.</hi> 55. And this Cuſtom was the Foundation of their future Greatneſs. But as the City grew more populous, they grew more ſparing of this Fa<g ref="char:EOLhyphen"/>vour. <hi>Scholi. Thucyd. l.</hi> 1. <hi>c.</hi> 2. and this Privilege was given to ſuch only as had deſerv'd it by ſome extraordinary Ser<g ref="char:EOLhyphen"/>vice to the State. <hi>Demoſt. Oratio contra Neaeram.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (4.)</p>
+               <p>
+                  <hi>Trades.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The <hi>Baſil</hi> Edition reads it right; for moſt part of the Mechanick and Handicraft Trades were carry'd on by the Aliens at <hi>Athens. Xenoph. de polit. Athen.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (5.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Xenophon</hi> explains this Paſ<g ref="char:EOLhyphen"/>ſage in his <hi>Hipparchicus,</hi> where he advi<g ref="char:EOLhyphen"/>viſes the State to inroll Aliens among
+<pb n="48" facs="tcp:51906:25"/>their Horſe. Beſides the Dignity of the Horſe-Service, there was a conſiderable Pay in Peace and War allow'd them. <hi>Ulpianus in Timocrateam. Xenoph. in Hippar.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (6.)</p>
+               <p>
+                  <hi>Waſte Ground. Vide Thucyd. l.</hi> 2. <hi>c.</hi> 17.</p>
+               <p>
+                  <hi>Note</hi> (7.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Every Alien by the Laws of <hi>Athens,</hi> was oblig'd to chooſe a private Patron among the Citizens. <hi>Harpocration in verbo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but here <hi>Xenophon</hi> propoſes publick Patrons for the whole Body of the Aliens.</p>
+               <p>
+                  <hi>Note</hi> (8.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Vide Demoſthen. contra Macartatum.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (9.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The meaning of <hi>Xenophon</hi> is that the <hi>Athenian</hi> Money was more valuable abroad than the Coin of any other Na<g ref="char:EOLhyphen"/>tion, becauſe it was finer, and conſe<g ref="char:EOLhyphen"/>quently was worth more than its own weight of any other Silver that had more Alloy in it. For 'tis impoſſible that an Ounce of <hi>Athenian</hi> Silver ſhould be worth more in Specie than an Ounce of other Silver of the ſame fineneſs. <hi>Sen<g ref="char:EOLhyphen"/>ſus moreſque repugnant, atque ipſa utilitas.</hi>
+               </p>
+               <pb n="49" facs="tcp:51906:25"/>
+               <p>
+                  <hi>Note</hi> (10.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. This Court of Judicature was probably the ſame with the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, mention'd by <hi>Suidas</hi> and <hi>Heſychius, in verbo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Note</hi> (11.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. This was a right of Precedence in the Theatres, Senate, Aſſemblies of the People, and in all pub<g ref="char:EOLhyphen"/>lick places whatſoever. <hi>Schol. Ariſtoph. in Equ.</hi> This Cuſtom was practis'd by the <hi>Spartans,</hi> who gave this Privilege to the <hi>Deceleans. Herodotus lib.</hi> 9. <hi>c.</hi> 72.</p>
+               <p>
+                  <hi>Note</hi> (12.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a Fond, <hi>Harpoc. Heſychius, in verbo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Note</hi> (13.)</p>
+               <p>
+                  <hi>Hegeſilaus</hi> commanded the <hi>Athenian</hi> Troops ſent to the Aſſiſtance of the <hi>Mantinaeans</hi> at the Battle of <hi>Manti<g ref="char:EOLhyphen"/>naea;</hi> which is a Proof that this Diſ<g ref="char:EOLhyphen"/>courſe was writ after that Battle. <hi>Diog. Laer. in Xenoph. Diodorus Siculus</hi> by Miſtake calls him <hi>Hegelochus.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (14.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Salmaſius de modo uſura<g ref="char:EOLhyphen"/>rum</hi> thinks that this was the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which the People receiv'd for judging Cauſes. But <hi>Xenophon</hi>'s Com<g ref="char:EOLhyphen"/>putation
+<pb n="50" facs="tcp:51906:26"/>plainly confutes this Opinion: He ſays that a Contributer of 10 <hi>Mi<g ref="char:EOLhyphen"/>nae,</hi> or 1000 <hi>Drachma's,</hi> at the rate of a <hi>Triobolus</hi> or half a <hi>Drachma</hi> a Day, will in a Years time receive almoſt the fifth part of the principal Money he advan<g ref="char:EOLhyphen"/>ced. Which is very true, for reckon<g ref="char:EOLhyphen"/>ing (as <hi>Xenophon</hi> always does in this Diſcourſe) 360 Days to the Year, the Payment of a <hi>Triobolus</hi> a Day will a<g ref="char:EOLhyphen"/>mount to 180 <hi>Drachmae,</hi> which is near the fifth part of 1000 <hi>Drachmae.</hi> But the payment of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> cou'd never amount to this Summ, be<g ref="char:EOLhyphen"/>cauſe the Holydays, by the Confeſſion of <hi>Salmaſius,</hi> took up two Months in the Year, and on theſe Days the Peo<g ref="char:EOLhyphen"/>ple never heard Cauſes, ſo that 30 <hi>Drachma's</hi> muſt be deducted from 180, which reduces the Summ to 150, which is little more than the ſeventh part of 1000. So that <hi>Salmaſius</hi> is miſtaken, or <hi>Xenophon</hi> was a very looſe Calcula<g ref="char:EOLhyphen"/>tor. The true meaning of the Paſſage I take to be this: <hi>Xenophon</hi> in the fol<g ref="char:EOLhyphen"/>lowing part of this Diſcourſe, in or<g ref="char:EOLhyphen"/>der to make Proviſion for the Citizens, makes a Propoſal to the State, to buy as many Slaves as wou'd treble the Number of their own Citizens, which
+<pb n="51" facs="tcp:51906:26"/>Slaves were to be let out at the rate of an <hi>Obolus</hi> a Day to the Adventurers in the Mines, which brought in a Re<g ref="char:EOLhyphen"/>venue of three <hi>Oboli</hi> a Day to every Citizen, becauſe the Slaves were thrice as many as the Citizens among whom this Revenue was to be divided. And this I take to be the <hi>Triobulus</hi> mentio<g ref="char:EOLhyphen"/>ned by <hi>Xenophon,</hi> which every Citizen was to receive in recompence for his Contribution.</p>
+               <p>
+                  <hi>Note</hi> (15.)</p>
+               <p>
+                  <hi>Nautick</hi>-Intereſt was the higheſt In<g ref="char:EOLhyphen"/>tereſt, and is here oppos'd to Land-Intereſt, which was conſiderably leſs. For in the former the Creditor run a greater Hazard; for if the Merchant who borrow'd the Money, and imploy'd it in Trade, loſt his Ship, the Creditor loſt his Money, and had no right to demand it of the Merchant; a Trade ſomewhat like our Bottumry. This In<g ref="char:EOLhyphen"/>tereſt generally amounted to 20 <hi>per Cent.</hi> or the fifth part of the Principal <hi>per annum.</hi> 'Tis true, it often vary'd, and was higher or lower according to the Plenty and Scarcity of Money, or the Danger and Diſtance of the Voyage. But the general <hi>Medium</hi> may be ſafely eſtabliſh'd at 20 <hi>per Cent.</hi> There are ſeveral Contracts of Money lent upon
+<pb n="52" facs="tcp:51906:27"/>
+                  <hi>Nautick</hi>-Intereſt, extant in the Orations of <hi>Demoſth. contra Lacrit. pro Phormi. contra Pant. contra Phormi.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (16.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. More than a third part of the principal Money: For a <hi>Triobolus</hi> a Day in a Year makes 180 <hi>Drachmae,</hi> which is above the third part of five <hi>Minae</hi> or 500 <hi>Drachmae.</hi> The <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> was the higheſt <hi>Nautick</hi>-Intereſt, and came to above 33 <hi>per Cent.</hi> There is an Inſtance which comes very near this Computation, in the Ora<g ref="char:EOLhyphen"/>tion of <hi>Demoſthenes contra Phormi.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (17.)</p>
+               <p>
+                  <hi>Almoſt double their Principal.</hi> For 180 <hi>Drachmae</hi> is almoſt double one <hi>Mina,</hi> or 100 <hi>Drachmae.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (18.)</p>
+               <p>
+                  <hi>Foreign Cities, &amp;c.</hi> Foreign States of<g ref="char:EOLhyphen"/>ten contributed to the Publick Buildings of the <hi>Greeks.</hi> The <hi>Rhodians</hi> when their <hi>Coloſſus</hi> was overturn'd by an Earth<g ref="char:EOLhyphen"/>quake, receiv'd Contributions from all the neighbouring States in order to re<g ref="char:EOLhyphen"/>ſtore it, <hi>Polybius, lib.</hi> 5. And there are many Inſcriptions of ſuch publick Bene<g ref="char:EOLhyphen"/>factors extant in <hi>Gruterus,</hi> and elſe<g ref="char:EOLhyphen"/>where.</p>
+               <pb n="53" facs="tcp:51906:27"/>
+               <p>
+                  <hi>Note</hi> (19.)</p>
+               <p>
+                  <hi>That the Mines can never be exhauſted.</hi> 'Tis plain from <hi>Pauſanias</hi> that theſe Mines were not work'd in his Time. <hi>Pauſ. Attic.</hi> But this does not deſtroy the Aſſertion of <hi>Xenophon,</hi> for the plun<g ref="char:EOLhyphen"/>dering the Temple of <hi>Delphi</hi> brought out two Millions of our Money, which lay dead before; and the Con<g ref="char:EOLhyphen"/>queſt of <hi>Perſia</hi> by the <hi>Macedonians</hi> brought ſuch a vaſt quantity of Silver into <hi>Greece,</hi> and conſequently made Labour ſo dear, that the Silver found in the Mines would in all probability ſcarce counter<g ref="char:EOLhyphen"/>vail the expences of the working them. Or it might proceed from the Subjecti<g ref="char:EOLhyphen"/>on of <hi>Athens</hi> to a Foreign Power, or from other Accidents, and not from any decay of the Mines.</p>
+               <p>
+                  <hi>Note</hi> (20.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Upon the ſame Terms,</hi> &amp;c. The State was the Proprietor of the Silver-Mines, and Strangers or <hi>Atheni<g ref="char:EOLhyphen"/>ans</hi> that work'd in them, were oblig'd to pay the ſame Tribute of the 24th Part of the Silver found, to the Publick. <hi>Sui<g ref="char:EOLhyphen"/>das</hi> in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Note</hi> (21.)</p>
+               <p>
+                  <hi>The repair of our Temple,</hi> &amp;c. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 'Twas the Cuſtom of the <hi>Greeks</hi> to let out the building and repair of
+<pb n="54" facs="tcp:51906:28"/>their Temples to private Undertakers. <hi>Athenaeus</hi> l. 6. <hi>Herod.</hi> l. 5. c. 62. where he makes uſe of the ſame Word, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; That is, <hi>They hir'd the build<g ref="char:EOLhyphen"/>ing of the Temple upon ſuch Terms.</hi> And the <hi>Latines</hi> us'd the Word <hi>conducunt</hi> in the ſame Senſe. <hi>Conducunt foricas,</hi> i. e. <hi>Repurgandas. Juvenal. Sat.</hi> 3.</p>
+               <p>
+                  <hi>Note</hi> (22.)</p>
+               <p>
+                  <hi>Revenue of</hi> 60 <hi>Talents.</hi> This Compu<g ref="char:EOLhyphen"/>tation proves that <hi>Xenophon</hi> reckon'd but 360 Days to the Year: For 6000 <hi>Oboli,</hi> multiply'd by 360, make 2160'000 <hi>Obo<g ref="char:EOLhyphen"/>li;</hi> which Sum. divided by 600 (for 600 <hi>Oboli</hi> make a <hi>Mina</hi>) makes 3'600 <hi>Minae,</hi> which divided by 60 (for 60 <hi>Mi<g ref="char:EOLhyphen"/>nae</hi> make a <hi>Talent</hi>) reduces the whole Sum to 60 <hi>Talents.</hi> And the following Computation of 100 <hi>Talents</hi> a Year, produc'd by 10000 <hi>Oboli</hi> a Day, an<g ref="char:EOLhyphen"/>ſwers exactly to the former.</p>
+               <p>
+                  <hi>Note</hi> (23.)</p>
+               <p>
+                  <hi>The taking of</hi> Decelea, <hi>&amp;c. Decelea</hi> was taken and fortify'd by the <hi>Lacedae<g ref="char:EOLhyphen"/>monians</hi> in the 19th Year of the <hi>Pelopon<g ref="char:EOLhyphen"/>neſian</hi> War, and lying in the Heart of <hi>Attica,</hi> it gave opportunity to 20000 <hi>Athenian</hi> Slaves to deſert to the Enemy. <hi>Thucyd.</hi> l. 7. c. 27.</p>
+               <pb n="55" facs="tcp:51906:28"/>
+               <p>
+                  <hi>Note</hi> (24.)</p>
+               <p>
+                  <hi>Xenophon</hi> in his former Propoſal would have 10000 Slaves let out at a certain Rate to the Adventurers in the Mines, but in this ſecond, Propoſal he adviſes the State it ſelf to adventure in ſearch of Diſcoveries of new Mines, which Work was to be carry'd on by another ſet of Slaves, and not by the for<g ref="char:EOLhyphen"/>mer 10000.</p>
+               <p>
+                  <hi>Note</hi> (25.)</p>
+               <p>There were at <hi>Athens,</hi> and in other Parts of <hi>Greece,</hi> Military Academies or Gymnaſia, where the young Men ex<g ref="char:EOLhyphen"/>ercis'd. <hi>Theophraſtus de Blanditiâ Ari<g ref="char:EOLhyphen"/>ſtoph. &amp; Schol. in Equil. Xenoph. in</hi> 1, 2, 3, <hi>&amp;</hi> 6th lib. <hi>de rebus Graec.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (26.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Torch-courſe.</hi> There was a Feſtival at <hi>Athens,</hi> on which a certain Number of Men ran with lighted Torches in their Hands. <hi>Pauſ. Attic.</hi> To this Ceremony <hi>Lucretius</hi> makes that fine Alluſion in his 2d. Book,</p>
+               <p>
+                  <hi>Et quaſi Curſores vitai lampada tradunt.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (27.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Council of Peace.</hi> This new Magiſtracy which <hi>Xenophon</hi> propo<g ref="char:EOLhyphen"/>ſes to be inſtituted for the Preſervation
+<pb n="56" facs="tcp:51906:29"/>of the Publick Peace, was to be, in all probability, like the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <hi>Faeci<g ref="char:EOLhyphen"/>ales</hi> of the <hi>Romans,</hi> who were inſtituted by <hi>Numa</hi> for the ſame conſiderations. <hi>Dion. Haicarn.</hi> lib. 2.</p>
+               <p>
+                  <hi>Note</hi> (28.)</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. After the <hi>Perſian</hi> in<g ref="char:EOLhyphen"/>vaſion, the <hi>Athenians</hi> had the command of the Confederate Fleet, and were made Treaſurers of the Money contributed by the <hi>Greeks</hi> to the carrying on the War againſt <hi>Perſia. Thucydides,</hi> lib. 1.</p>
+               <p>
+                  <hi>Note</hi> (29.)</p>
+               <p>The <hi>Athenians</hi> recover'd the Com<g ref="char:EOLhyphen"/>mand of the <hi>Greek</hi> Iſlands, (which they loſt in the <hi>Peloponneſian</hi> War,) in the 4th Year of the 100th <hi>Olymp Diod. Sicul.</hi> lib. 15.</p>
+               <p>
+                  <hi>Note</hi> (30.)</p>
+               <p>This Alliance between the <hi>Thebans</hi> and <hi>Athenians,</hi> was made in the ſecond Year of the 96th <hi>Olympiad. Diod. Siculus.</hi> lib. 14. <hi>Xenophon</hi> lib. 3. <hi>de rebus Graec.</hi>
+               </p>
+               <p>
+                  <hi>Note</hi> (31.)</p>
+               <p>This League between the <hi>Spartans</hi> and <hi>Athenians,</hi> was made in the 4th Year of the 102d <hi>Olympiad,</hi> not long after the Battle of <hi>Leuctra. Diod. Sic.</hi> 1. 15. <hi>Xenop.</hi> 1. 7. <hi>de rebus Graec.</hi>
+               </p>
+               <pb n="57" facs="tcp:51906:29"/>
+               <p>
+                  <hi>Note</hi> (32.)</p>
+               <p>
+                  <hi>For the Liberty of</hi> Delphi. The <hi>Greeks</hi> made it a part of their Religion, to preſerve the Liberty of <hi>Delphi.</hi> Thus the <hi>Lacedaemonians</hi> enter'd into a War to reſtore the Oracle to the <hi>Delphians. Thucyd.</hi> lib. 1. c. 112. And the firſt Ar<g ref="char:EOLhyphen"/>ticle of their Leagues, often began with a mutual Engagement on both Parts, to protect the Liberty of <hi>Delphi. Thucyd.</hi> l. 4. c. 118. l. 5. c. 18. Beſides their Religion, they had Reaſons of State for this proceeding: For if <hi>Delphi</hi> were ſubject to a foreign Power, the Prieſteſs might be forc'd to utter whatever Ora<g ref="char:EOLhyphen"/>cles the Conqueror pleas'd to impoſe: Nor could the Reſolutions and Sen<g ref="char:EOLhyphen"/>tences of the <hi>Amphictyons,</hi> who often ſate at <hi>Delphi,</hi> be free and unbyaſs'd as long as <hi>Delphi</hi> was under a Foreign Dominion.</p>
+               <p>
+                  <hi>Note</hi> (33.)</p>
+               <p>If we knew who theſe Enemies were that deſign'd to ſeize upon <hi>Delphi,</hi> it would be no difficult Matter to deter<g ref="char:EOLhyphen"/>mine exactly the Time when this Diſcourſe was written. <hi>Jaſon,</hi> the Ty<g ref="char:EOLhyphen"/>rant of <hi>Theſſaly,</hi> had form'd a Deſign up<g ref="char:EOLhyphen"/>on <hi>Delphi,</hi> but his Death prevented the execution of it. <hi>Diod. Sic. Xenop. Hiſt. Graec. Aelian. Frag.</hi> But this Paſſage can<g ref="char:EOLhyphen"/>not
+<pb n="58" facs="tcp:51906:30"/>be underſtood to mean this attempt, for <hi>Jaſon</hi> was aſſaſſinated in the third Year of the 102 <hi>Olymp.</hi> Some Years before the Battle of <hi>Mantinaea,</hi> and this Diſcourſe, as I have prov'd in a former Note, was written after that Battle. I think that this Paſſage (taking the Word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in a neutral Senſe as I have rendred it, and for which there are a thouſand Authorities) ought to be un<g ref="char:EOLhyphen"/>derſtood of a Deſign the <hi>Thebans</hi> had form'd upon <hi>Delphi.</hi> The Story in ſhort is this: The <hi>Thebans</hi> being engag'd in a War with the <hi>Phocians,</hi> upon ſome Diſpute a<g ref="char:EOLhyphen"/>bout a Frontier, form'd a Deſign upon the Temple of <hi>Delphi. Demoſt. de Falsâ Legati<g ref="char:EOLhyphen"/>one, Ulpianus.</hi> And the <hi>Phocians</hi> at the ſame time being condemn'd by the <hi>Am<g ref="char:EOLhyphen"/>phictlyons</hi> to pay a great Fine for plow<g ref="char:EOLhyphen"/>ing up ſome Conſecrated Land, the <hi>Greeks</hi> prepar'd to execute the Sentence by force of Arms. The <hi>Phocians</hi> being unable to reſiſt ſuch an approaching Storm, were reduc'd to great Extremi<g ref="char:EOLhyphen"/>ties, and compell'd for their own Pre<g ref="char:EOLhyphen"/>ſervation, to ſeize upon the Treaſures of <hi>Delphi:</hi> This gave beginning to the Ho<g ref="char:EOLhyphen"/>ly War, and all <hi>Greece</hi> ingag'd in the Quarrel. The <hi>Athenians</hi> aſſiſted the <hi>Pho<g ref="char:EOLhyphen"/>cians,</hi> but <hi>Xenophon</hi> adviſes them to break off that Alliance, and declare for the Li<g ref="char:EOLhyphen"/>berty
+<pb n="59" facs="tcp:51906:30"/>of <hi>Delphi,</hi> and under that Plauſible Pretence, to unite all <hi>Greece,</hi> againſt the <hi>Thebans</hi> who were equally Criminal with the <hi>Phocians,</hi> (as <hi>Demoſthenes</hi> obſerves) for having form'd the firſt Deſign upon the Temple. This Counſel he recom<g ref="char:EOLhyphen"/>mends to the <hi>Athenians</hi> as the beſt Me<g ref="char:EOLhyphen"/>thod to recover the Dominion of <hi>Greece.</hi> I know it will be objected that <hi>Laertius</hi> places the Death of <hi>Xenophon</hi> in the firſt Year of the 105th <hi>Olympiad,</hi> and the <hi>Phocian</hi> War breaking out ſome Years after, it will be impoſſible to explain this Paſſage in my Sence. To this I anſwer, that this Account of <hi>Laertius</hi> is certainly falſe: For <hi>Xenophon,</hi> in his <hi>Greek</hi> Hiſtory, mentions the Death of <hi>Alexander</hi> the Tyrant of <hi>Pherae,</hi> which happen'd, as <hi>Diodorus</hi> obſerves, in the 4th Year of the 105th <hi>Olymp.</hi> ſo that <hi>Xenophon</hi> muſt be a Prophet, or be a<g ref="char:EOLhyphen"/>live at that time, three Years after his ſuppos'd Death. <hi>Xenophon</hi> likewiſe in the concluſion of his <hi>Greek Hiſtory</hi> affirms, that after the Battle of <hi>Mantinaea, Greece</hi> was in a greater Diſorder and Confu<g ref="char:EOLhyphen"/>ſion than ever. But we read of no con<g ref="char:EOLhyphen"/>ſiderable Commotion in <hi>Greece</hi> till the breaking out of the Holy War, in the 1ſt Year of the 106th <hi>Olymp.</hi> which en<g ref="char:EOLhyphen"/>gag'd all <hi>Greece</hi> in an inteſtine Diviſion.</p>
+               <pb n="60" facs="tcp:51906:31"/>
+               <p>To confirm this Account of <hi>Laerti<g ref="char:EOLhyphen"/>us,</hi> it may be urg'd, that <hi>Xenophon</hi> li<g ref="char:EOLhyphen"/>ving 90 Years, according to <hi>Lucian in Macrob.</hi> and being preſent at the Battle of <hi>Delium,</hi> which was ſought in the firſt Year of the 89th <hi>Olympiad,</hi> about 67 Years before the <hi>Holy War,</hi> it is highly improbable that he was living at the time of the <hi>Holy War.</hi> 'Tis true, <hi>Laer<g ref="char:EOLhyphen"/>rius</hi> ſays that <hi>Socrates</hi> ſav'd <hi>Xenophon</hi>'s Life at that Battle: But <hi>Athenaeus l.</hi> 5. ſays that <hi>Socrates</hi> was not at the Battle; and 'tis probable that the other part of the Story of <hi>Xenophon</hi>'s being there, may be equally ſabulous, eſpecially if what <hi>Athenaeus</hi> (according to <hi>Caſaubon</hi>'s Correction) ſays be true, that <hi>Xeno<g ref="char:EOLhyphen"/>phon</hi> was but a Boy at the Banquet of <hi>Callias,</hi> which was three Years after<g ref="char:EOLhyphen"/>wards. Beſides he is call'd a <hi>Young Man</hi> in his Expedition into <hi>Aſia;</hi> but at this rate he muſt have been 50 Years old at that time, an Age at which a Man can<g ref="char:EOLhyphen"/>not properly be call'd young.</p>
+               <p>But granting that he was preſent at the Battle of <hi>Delium,</hi> if we allow him to be 18 Years old, the Age, if I mi<g ref="char:EOLhyphen"/>ſtake not, that the <hi>Athenians</hi> uſually made their firſt Campagne, he would be but 81 Years old on the firſt Year of the 105th <hi>Olympiad,</hi> and conſequently
+<pb n="61" facs="tcp:51906:31"/>might write of the <hi>Holy War,</hi> which broke out four Years afterwards. Nor does <hi>Lucian</hi> preciſely limit his Age to 90 Years only, but ſays he lived, above 90 Years.</p>
+               <p>
+                  <hi>Xenophon</hi> in this Diſcourſe ſays, that the <hi>Athenians</hi> had been ingag'd in a War by Sea and Land; that the War by Sea was at an end, but the War by Land ſtill continu'd. This exactly a<g ref="char:EOLhyphen"/>grees with the <hi>Bellum Sociale,</hi> or the War of the <hi>Athenians</hi> againſt their re<g ref="char:EOLhyphen"/>volted Iſlands, which was carryed on by Sea, and begun in the third Year of the 105th <hi>Olympiad,</hi> and ended in the ſecond Year of the 106th <hi>Olympiad,</hi> two Years after the breaking out of the <hi>Holy War,</hi> which the <hi>Athenians</hi> were then engaged in.</p>
+               <p>By this Account <hi>Xenophon</hi> writ this Diſcourſe about the third Year of the 106th <hi>Olympiad,</hi> a Year after the Con<g ref="char:EOLhyphen"/>cluſion of the Peace with the Iſlands.</p>
+               <p>If the Account of <hi>Xenophon</hi>'s Death in <hi>Laertius</hi> be true, I cannot believe this Work to be genuine; for I believe it almoſt impoſſible to explain this Paſ<g ref="char:EOLhyphen"/>ſage in any other ſenſe. But the Autho<g ref="char:EOLhyphen"/>rity of all the Writers who aſcribe this Diſcourſe to <hi>Xenophon,</hi> and the Confor<g ref="char:EOLhyphen"/>mity of the Style with the reſt of his
+<pb n="62" facs="tcp:51906:32"/>Works, and that Character of Piety which runs thro' the whole Piece, which is ſo peculiar to the Works of <hi>Xeno<g ref="char:EOLhyphen"/>phon,</hi> and that particular Maxime at the Concluſion of this Treatiſe, <hi>of underta<g ref="char:EOLhyphen"/>king every thing under the Favour and Protection of the Gods,</hi> which he in<g ref="char:EOLhyphen"/>culcates in all his Works, and particu<g ref="char:EOLhyphen"/>larly at the end of his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, are undeniable Proofs that this Diſcourſe is Genuine.</p>
+               <trailer>The End of the Notes.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51906:32"/>
+            <head>BOOKS ſold by <hi>James Knapton,</hi> at the <hi>Crown</hi> in St. <hi>Paul's</hi> Church-Yard.</head>
+            <p>THE Memoirs of Monſieur <hi>Pontis,</hi> who ſerv'd in the <hi>French</hi> Armies 56 years. Tranſlated by <hi>Charles Cotton</hi> Eſq; Fol.</p>
+            <p>Sir <hi>William Temple</hi>'s Memoirs. <hi>8vo.</hi>
+            </p>
+            <p>
+               <hi>Scarron</hi>'s Novels, <hi>8vo.</hi>
+            </p>
+            <p>Proceſſus Integri in morbis fere omnibus curandisà Do. Th. Sydenham Conſcripti, 12<hi>s.</hi>
+            </p>
+            <p>Dr. <hi>Sydenham</hi>'s Practice of Phyſick, faith<g ref="char:EOLhyphen"/>fully tranſlated into <hi>Engliſh,</hi> with large Annota<g ref="char:EOLhyphen"/>tions, Animadverſions, and Practical Obſerva<g ref="char:EOLhyphen"/>tions on the ſame. By <hi>W. Salmon,</hi> M. D. 12<hi>s.</hi>
+            </p>
+            <p>
+               <hi>Wingate</hi>'s Arithmetick, <hi>8vo.</hi> 9th <hi>Edition.</hi>
+            </p>
+            <p>
+               <hi>Scrivener's</hi> Directions to a holy Life <hi>8vo.</hi>
+            </p>
+            <p>A learned Treatiſe of the Situation of the Terreſtrial Paradiſe. Written by Monſieur <hi>Huet,</hi> done into <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>Quadriennium Jacobi,</hi> or the Hiſtory of the Reign of King <hi>James</hi> II. from his coming to the Crown, to his deſertion: The ſecond Edition.</p>
+            <p>A new Method of curing all ſorts of Fe<g ref="char:EOLhyphen"/>vers, without taking any thing by the Mouth; being a new Preſcription for giving the Bark in Clyſters, whereby all the Inconveniences of adminiſtring it in any other form are a<g ref="char:EOLhyphen"/>voided, and a more ſpeedy and certain Cure is obtain'd. By <hi>A Helvet,</hi> M. D. 12<hi>s.</hi> 2d Edit.</p>
+            <pb facs="tcp:51906:33"/>
+            <p>The Governour of <hi>Cyprus,</hi> 12s. a Novel.</p>
+            <p>The wanton Fryar, 12<hi>s.</hi> a Novel.</p>
+            <p>Cornel. Nepos in uſum Delph. <hi>8vo.</hi>
+            </p>
+            <p>Syllabus muſculorum Humani Corporis: In ſex praelectionibus ut hodie in Theatro Anatomico Chirurgorum Londinenſium di<g ref="char:EOLhyphen"/>ſtinctus.</p>
+            <p>The Artificial Clock-maker; a Treatiſe of Watch and Clock-Work, wherein the Art of calculating Numbers for moſt ſorts of Movements, is explain'd to the Capacity of the Unlearn'd; alſo the Hiſtory of Clock-Work both Ancient and Modern, with other uſeful matters never before publiſh'd, <hi>8vo.</hi> By <hi>J. D.</hi> A. M.</p>
+            <p>The Hiſtory of the Inquiſition of <hi>Goa,</hi> done into <hi>Engliſh</hi> by the ingenious Mr. <hi>Whar<g ref="char:EOLhyphen"/>ton, 4to.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Ruſſel</hi>'s Treatiſe of Phyſick, <hi>8vo.</hi>
+               </item>
+               <item>Bp. <hi>Taylor</hi>'s Life of Chriſt, <hi>fol.</hi>
+               </item>
+               <item>Elis de Articulis, <hi>12mo.</hi>
+               </item>
+               <item>Mori Ethica, <hi>12mo.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Poetry and Plays.</head>
+               <item>
+                  <hi>Ben. Johnſon</hi>'s Works, <hi>fol.</hi>
+               </item>
+               <item>Sir <hi>Robert Howard</hi>'s Plays.</item>
+               <item>The E. of <hi>Orrerey</hi>'s Plays, <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Dryden</hi>'s Juvenal, <hi>8vo.</hi>
+               </item>
+               <item>
+                  <hi>Milton</hi>'s Paradiſe loſt and regain'd, <hi>fol.</hi>
+               </item>
+               <item>— Poetical Works with Notes.</item>
+               <item>Prince <hi>Arthur.</hi>
+               </item>
+               <item>And King <hi>Arthur.</hi>
+               </item>
+               <item>
+                  <hi>Ovid's Epiſtles</hi> by ſeveral Hands, <hi>8vo.</hi>
+               </item>
+               <item>
+                  <hi>Dryden</hi>'s Miſcellany Poems.</item>
+               <item>Mr. <hi>Shadwell</hi>'s Plays, bound or ſingle.</item>
+               <item>Mr. <hi>Otway</hi>'s Plays, bound or ſingle.</item>
+               <item>Mr. <hi>Lee</hi>'s Tragedies, bound or ſingle.</item>
+            </list>
+            <p>And all other Modern Plays.</p>
+            <pb facs="tcp:51906:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
